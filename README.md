@@ -1,5 +1,4 @@
-# Refactoring
+# laravel-8
 
-- Refactoring 2nd Edition
+- Repo for toy project
 
-1. JavaScript
